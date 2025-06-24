@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(175, 123, 238);
+}
+
+button{
+    background-color: brown;
+    color: bisque;
+}
+
+.box{
+    color: brown;
+    background-color: rgb(228, 153, 99);
+    margin: 25px;
+    padding: 25px;
+    border: 1px solid black;
+    width: 50%;
+    height: 25px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
