@@ -1,0 +1,19 @@
+.box{
+    width : 150px;
+    height: 150px;
+    margin: 100px;
+    padding: 100px;
+    border: 2px solid black;
+    color: brown;
+}
+.parahs{
+    font-size: 30px;
+    font-style: italic bold;
+    color: blueviolet;
+}
+
+.new-style{
+    font-size: 90px;
+    font-style :italic;
+    color: rgb(226, 43, 76);
+}
